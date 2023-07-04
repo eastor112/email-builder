@@ -1,0 +1,116 @@
+{
+  "tagName": "mjml",
+  "children": [
+    {
+      "tagName": "mj-body",
+      "children": [
+        {
+          "tagName": "mj-section",
+          "children": [
+            {
+              "tagName": "mj-column",
+              "children": [
+                {
+                  "tagName": "mj-text",
+                  "children": [],
+                  "attributes": {
+                    "color": "red"
+                  },
+                  "content": "This is a Paragraph"
+                }
+              ],
+              "attributes": {
+                "background-color": "#888",
+                "padding": "30px"
+              }
+            },
+            {
+              "tagName": "mj-column",
+              "children": [
+                {
+                  "tagName": "mj-button",
+                  "children": [],
+                  "attributes": {
+                    "color": "red"
+                  },
+                  "content": "click me"
+                }
+              ],
+              "attributes": {
+                "background-color": "#888",
+                "padding": "30px"
+              }
+            },
+            {
+              "tagName": "mj-column",
+              "children": [
+                {
+                  "tagName": "mj-button",
+                  "children": [],
+                  "attributes": {
+                    "color": "red"
+                  },
+                  "content": "click me"
+                }
+              ],
+              "attributes": {
+                "background-color": "#888",
+                "padding": "30px"
+              }
+            }
+          ],
+          "attributes": {
+            "background-color": "#a9c",
+            "padding": "20px 0px 100px 0px"
+          }
+        },
+        {
+          "tagName": "mj-section",
+          "children": [
+            {
+              "tagName": "mj-column",
+              "children": [
+                {
+                  "tagName": "mj-text",
+                  "children": [],
+                  "attributes": {
+                    "color": "red"
+                  },
+                  "content": "This is a Paragraph"
+                }
+              ],
+              "attributes": {
+                "background-color": "#888",
+                "padding": "30px"
+              }
+            },
+            {
+              "tagName": "mj-column",
+              "children": [
+                {
+                  "tagName": "mj-text",
+                  "children": [],
+                  "attributes": {
+                    "color": "red"
+                  },
+                  "content": "This is a Paragraph"
+                }
+              ],
+              "attributes": {
+                "background-color": "#888",
+                "padding": "30px"
+              }
+            }
+          ],
+          "attributes": {
+            "background-color": "#a9c",
+            "padding": "20px 0px 100px 0px"
+          }
+        }
+      ],
+      "attributes": {
+        "background-color": "#123"
+      }
+    }
+  ]
+}
